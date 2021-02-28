@@ -1,4 +1,4 @@
-# clock LEDS with timer -> STM32
+# clock LEDS with timer -> STM32cubeIDE
 
 ### Materiales:
 1. Microcontrolador STM32F103
